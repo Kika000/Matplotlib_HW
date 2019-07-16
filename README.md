@@ -3,7 +3,7 @@ This could be correlated to number of drivers available per city.
 Urban cities have a higher number of drivers while rural cities have less number of drivers.
 This increase competition in urban cities, therefore fares are lower. 
 2. “% of Total Fares by City Type” pie chart suggests to increase the number of drivers in Urban cities with high demand. Even when average fare is lower, the amount of rides is large enough to increase significant profit.
-3. 
+3. Since number of drivers is proporcional to number of rides, we can suggest that increasing company presence in Suburban cities with high demand will increase market share and profit.
 
 
 
